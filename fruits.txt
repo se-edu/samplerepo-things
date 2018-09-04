@@ -1,3 +1,5 @@
 apples
 berries
+bananas
 cherries
+strawberries
