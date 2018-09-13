@@ -9,7 +9,10 @@
 \pard\pardeftab720\sl320\partightenfactor0
 
 \f0\b\fs28 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 # Introduction
-\f1\b0 \cf3 \cb4 \strokec3 \
+# Introduction
+\f1\b0 \cf3 \cb4 \
 Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects.\
-This repo can be used to practice creating PRs.}
+This sample-things repo can be used to practice creating PRs.\
+\
+\
+}
