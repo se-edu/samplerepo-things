@@ -2,4 +2,4 @@ blue
 red
 green
 white
-black
+cyan
