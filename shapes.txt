@@ -5,3 +5,4 @@ square
 hexagon
 pentagon
 decagon
+triangle
