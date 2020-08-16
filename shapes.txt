@@ -4,3 +4,4 @@ rectangle
 square
 hexagon
 pentagon
+decagon
