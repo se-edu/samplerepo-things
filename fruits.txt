@@ -1,3 +1,8 @@
 apples
 berries
 cherries
+strawberry
+blueberry
+dewberry
+orange
+mango

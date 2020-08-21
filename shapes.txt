@@ -2,3 +2,7 @@ circle
 oval
 rectangle
 square
+hexagon
+pentagon
+decagon
+triangle
