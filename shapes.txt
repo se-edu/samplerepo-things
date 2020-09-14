@@ -1,4 +1,2 @@
-circle
-oval
-rectangle
-square
+
+octahedral
