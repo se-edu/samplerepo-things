@@ -3,3 +3,5 @@ rectangle
 square
 circle
 triangle
+oval
+parallelogram
