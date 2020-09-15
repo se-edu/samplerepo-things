@@ -2,3 +2,6 @@ blue
 red
 white
 purple
+RAINBOW?
+MONOCHROME?!
+GREYSCALE!!?
