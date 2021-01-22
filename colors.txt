@@ -4,3 +4,4 @@ white
 black
 yellow
 scarlet
+violet
