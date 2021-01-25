@@ -1,0 +1,3 @@
+This file was created in the 'feature1' branch.
+The file was changed after a commit in the branch.
+Here is another change.
