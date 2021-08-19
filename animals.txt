@@ -2,3 +2,4 @@ Dog
 Cat
 Bat
 Frog
+Lizard
