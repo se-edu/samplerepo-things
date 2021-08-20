@@ -2,3 +2,8 @@ Fruits:
 apples
 berries
 cherries
+mango
+orange
+kiwi 
+papaya
+grapes
