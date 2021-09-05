@@ -5,3 +5,5 @@ bugfix
 green
 brown
 yellow
+merge
+
