@@ -1,3 +1,5 @@
+COLORS
+------
 blue
 red
 white
@@ -5,3 +7,4 @@ brown
 green
 yellow
 black
+grey
