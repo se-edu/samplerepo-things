@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a34e68fe-09e0-4fb9-8fd6-64ce676cdada" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/colors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/colors.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a34e68fe-09e0-4fb9-8fd6-64ce676cdada" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Junior1/CS2113/samplerepo-things"
+    "last_opened_file_path": "D:/Junior1/CS2113/ip"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
