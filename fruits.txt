@@ -3,3 +3,5 @@ berries
 cherries
 banana
 coconut
+pineapple
+apple
