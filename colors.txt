@@ -1,6 +1,6 @@
 blue
 red
 white
-black
-purple
+black colour
+purple colour
 conflict colour
