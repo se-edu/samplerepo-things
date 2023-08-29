@@ -1,3 +1,8 @@
 apples
 berries
 cherries
+mangoes
+oranges
+kiwi
+papaya
+grapes
