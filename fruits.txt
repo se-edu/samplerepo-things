@@ -1,9 +1,6 @@
 apples
 berries
 cherries
-<<<<<<< HEAD
 karrot
-=======
-
+cher
 blueberries are amazing!!
->>>>>>> feature1
