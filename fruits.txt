@@ -1,5 +1,5 @@
 apples
 berries
-cherries
+cher
 
 blueberries are amazing!!
